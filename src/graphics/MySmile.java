@@ -22,6 +22,15 @@ public class MySmile extends JPanel {
         g.setColor(randomColor);
         g.fillRect(x, 0, this.getWidth(), this.getHeight());
 
+       /* //2 слой
+        g.setColor(randEye);
+        g.fillRect(x, 0, this.getWidth(), this.getHeight());
+
+        //3 слой
+        g.setColor(randLips);
+        g.fillRect(x, 0, this.getWidth(), this.getHeight());*/
+
+
         //кружок
         g.setColor(randomColor);
         g.fillOval(70, 70, 100, 100);
