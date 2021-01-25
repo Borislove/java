@@ -43,7 +43,6 @@ public class MyImageHelloWorld_2 extends JPanel {
             frame.repaint();
             x++;
 
-
             if (b) {
                 y++;
             } else y--;
