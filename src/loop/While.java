@@ -1,6 +1,6 @@
-package cycle;
+package loop;
 
-//продолжать пока истино выражение
+//выполнять пока истино выражение
 public class While {
 
     public static void main(String[] args) {

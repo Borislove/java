@@ -1,7 +1,6 @@
-package cycle;
+package loop;
 
 public class For {
-
 
     public static void main(String[] args) {
 

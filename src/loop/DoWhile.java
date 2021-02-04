@@ -1,11 +1,11 @@
-package cycle;
+package loop;
 
 public class DoWhile {
 
       static   int i = 0;
     public static void main(String[] args) {
 
-        //выполнять в любом случаее
+        //выполнять в любом случае
         do {
             System.out.println("Test");
             System.out.println(i);
